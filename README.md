@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefabdelhedi201
 - 👀 I’m interested in cloud security and cyber security
-- 🌱 I’m currently learning kotlin and azure
+- 🌱 I’m currently taking AWS practitioner Courses
 - 💞️ I’m looking to collaborate on anything to be honest i am down to learn
 - 📫 How to reach me : youssefabdelhedi@outlook.com
 
